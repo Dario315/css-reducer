@@ -5,3 +5,13 @@ README
 
 What is CssReducer?
 -------------------
+
+With CSS-Reducer you can reduce and simplify your CssCode in 
+only one step:
+
+Copy your code & paste it into the Box at the CssReducer!
+
+-->And now your Reduce was Complete!<--
+
+What is CssReducer making?
+--------------------------
